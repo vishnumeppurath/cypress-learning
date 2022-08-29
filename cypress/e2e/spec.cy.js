@@ -1,5 +1,5 @@
 
-describe('empty spec', () => {
+describe('Sample spec', () => {
   it('passes', () => {
     cy.visit('https://rahulshettyacademy.com/seleniumPractise/#/')
     cy.get(".search-keyword").type("ca")
